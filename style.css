@@ -1,0 +1,92 @@
+*{
+  margin: 0 auto;
+  background-color: #ECEEF1;
+  font-family: 'Lato', sans-serif;
+
+}
+ul {
+  list-style-type: none;
+  display: block;
+  text-align: center;
+  padding: 0;
+  background: white;
+}
+span {
+  background: white;
+}
+label{
+background: white;
+}
+
+.form-group {
+  background: white;
+}
+li {
+  display: inline;
+}
+
+.navigation-container {
+  float: right;
+}
+.navigation-button {
+  float: right;
+}
+.navigation-column {
+    float: left;
+    line-height: 0.5;
+    margin-top: 7px;
+    margin-right: 10px;
+}
+.navigation-bar {
+  padding: 10px;
+  height: 60px;
+}
+.glyphicon {
+  background: #337ab7;
+  font-family: 'Lato', sans-serif;
+}
+
+#log {
+  padding: 20px 0;
+}
+
+section {
+  width: 400px;
+  background: white;
+  border-radius: 2px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+}
+
+hr {
+  width: 350px;
+}
+
+.sign-up-header {
+  background:white;
+  padding-top: 20px;
+}
+
+header {
+  background: white;
+}
+
+#top-header {
+  font-size: 30px;
+  line-height: 1.2;
+}
+
+form {
+  background: white;
+  padding: 20px;
+}
+
+form button {
+  width: 100%;
+}
+
+#register{
+  background: white;
+  padding: 10px;
+}
